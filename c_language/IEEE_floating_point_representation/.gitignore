@@ -1,0 +1,13 @@
+# Files to be ignored for commits
+Makefile
+README
+*.exe
+*.h
+*.o
+*.l
+*.mlky
+*.txt
+lex.yy.c
+all_values
+fp
+fp_program.c
