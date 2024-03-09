@@ -1,8 +1,0 @@
-x = 100000.23
-print x
-y = -100000.23
-print y
-a = x + y
-print a
-z = x * y
-print z
