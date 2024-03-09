@@ -1,0 +1,6 @@
+# Files to ignore
+Makefile
+*.h
+*.o
+saber
+saber.c
